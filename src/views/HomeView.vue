@@ -1,7 +1,7 @@
 <template>
-    <!-- <a-button type="primary">
+    <a-button type="primary">
       Primary
-    </a-button> -->
+    </a-button>
     <a-layout id="components-layout-demo-top-side-2">
         <a-layout-header class="header">
             <a-button id="fuwu" type="primary"><router-link to="/">服务</router-link></a-button>
